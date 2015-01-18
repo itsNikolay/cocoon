@@ -1,4 +1,4 @@
-(function($) {
+(function cocoon_init($) {
 
   var cocoon_element_counter = 0;
 
